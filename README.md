@@ -13,6 +13,7 @@
 
 
 ![Sleepy GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepyashs&show_icons=true&theme=ocean_dark )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyashs&hide_progress=true)
 
 ## Tecnologias que uso no meu dia
 
@@ -28,6 +29,4 @@
 </div><br/>
 
 Estou no caminho para a programação, aprendendo um pouco a cada dia
-
-### Fear The Old Blood
 
