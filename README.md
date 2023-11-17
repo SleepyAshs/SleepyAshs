@@ -28,5 +28,3 @@
 
 </div><br/>
 
-Estou no caminho para a programação, aprendendo um pouco a cada dia
-
